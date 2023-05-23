@@ -5,6 +5,7 @@
 This notebook uses a dataset of tweets that have been labeled as positive (0) or negative (1). The wordcloud plot will use the entire dataset.
 
 ## Steps to create these plots
+
 ---
 
 **Perform data exploration**
@@ -25,18 +26,13 @@ This notebook uses a dataset of tweets that have been labeled as positive (0) or
 1. Use the Twitter logo as a mask to display the wordcloud
 <P>
 
-![Alt text](creadted-wordcloud-images/blue-bird-twitter-wordcloud.png)
+![Alt text](created-wordcloud-images/blue-bird-twitter-wordcloud.png)
 
 2. Use a butterfly image as a mask to display the wordcloud
 
 <P>
 
-![Alt text](creadted-wordcloud-images/green-butterfly-twitter-wordcloud.png)
-
-
-
-
-
+![Alt text](created-wordcloud-images/green-butterfly-twitter-wordcloud.png)
 
 
 <em> [Dataset source: Coursera Course] </em>
